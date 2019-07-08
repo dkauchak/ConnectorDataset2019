@@ -1,0 +1,426 @@
+CONTRAST_WORDS:
+however
+in contrast
+nevertheless
+yet
+on the other hand
+on the one hand
+by comparison
+on the contrary
+instead
+in any case
+all the same
+
+SIMILARITY_WORDS:
+likewise
+similarly
+correspondingly
+in the same way
+also
+
+RESULT_WORDS:
+as a result
+as a consequence
+therefore
+thus
+accordingly
+
+SEQUENCE_WORDS:
+also
+first
+firstly
+first of all
+in the first place
+to begin with
+for one thing
+second
+secondly 
+in the second place
+for another thing
+third
+thirdly
+in the third place
+besides
+in addition
+furthermore
+moreover
+finally
+last
+lastly
+last of all
+
+IMPORTANCE_ORDER_WORDS:
+most importantly
+primarily
+above all
+most significantly
+essentially
+basically
+
+PARTICULARIZATION_WORDS:
+in particular
+particularly
+more specifically
+specifically
+
+EXAMPLIFICATION_and_EMPAHSIS_WORDS:
+for example
+for instance
+to illustrate
+in other words
+to put it differently
+for one thing
+as an illustration
+in this case
+for this reason
+to put it another way
+that is to say
+with attention to
+by all means
+notably
+including
+like
+to be sure
+namely
+chiefly
+truly
+indeed
+certainly
+surely
+markedly
+such as 
+in fact
+in general
+in particular
+in detail
+for example
+for instance
+to demonstrate
+to emphasize
+to repeat
+to clarify
+to explain
+to enumerate
+important to realize
+another key point
+first thing to remember
+most compelling evidence
+must be remembered
+point often overlooked
+to point out
+on the positive side
+on the negative side
+with this in mind
+especially
+explicitly
+specifically
+expressly
+surprisingly
+frequently
+significantly
+particularly
+
+EXPLANATION_WORDS:
+that is to say
+that is
+namely
+in other words
+put differently
+
+EMPHASIS_WORDS:
+as a matter of fact
+in fact
+actually
+indeed
+
+LINKING_WORDS:
+as for 
+with respect to
+regarding
+with regard to
+as regards
+talking of
+as far as
+
+CONCLUSION_and_CONSEQUENCE_WORDS:
+in conclusion
+in brief
+in summary
+to sum up
+all in all
+as can be seen
+generally speaking
+in the final analysis
+all things considered
+as shown above
+in the long run
+given these points
+as has been noted
+in a word
+for the most part
+after all
+in fact
+in summary
+in conclusion
+in short
+in brief
+in essence
+to summarize
+on balance
+altogether
+overall
+ordinarily
+usually
+by and large
+to sum up
+on the whole
+in any event
+in either case
+all in all
+Obviously
+Ultimately
+Definitely
+as a result
+under those circumstances
+in that case
+for this reason
+in effect
+for
+thus
+because the
+then
+hence
+consequently
+therefore
+thereupon
+forthwith
+accordingly
+henceforth
+
+CORRECTION_WORDS:
+rather
+to be more precise
+
+TIME_WORDS
+at first
+then
+afterwards
+later
+in the meantime
+meanwhile
+at the present time
+from time to time
+sooner or later
+at the same time
+up to the present time
+to begin with
+in due time
+as soon as
+as long as
+in the meantime
+in a moment
+without delay
+in the first place
+all of a sudden
+at this instant
+first
+second
+after
+later
+last
+until
+till
+since
+then
+before
+hence
+since
+when
+once
+about
+next
+now
+henceforth
+whenever
+eventually
+meanwhile
+further
+during
+in time
+prior to
+forthwith
+straightaway
+by the time
+whenever
+until now
+now that
+instantly
+presently
+occasionally
+immediately
+quickly
+finally
+formerly
+suddenly
+shortly
+
+DISMISSAL_WORDS:
+anyway
+anyhow
+at any rate
+
+AGREEMENT_WORDS:
+in the first place
+not only
+but also
+as a matter of fact
+in like manner
+in addition
+coupled with
+in the same fashion
+in the same way
+in the light of
+not to mention
+to say nothing of
+equally important
+by the same token
+again
+to
+and
+also
+then
+equally
+identically
+uniquely
+like
+as
+too
+moreover
+as well as
+together with
+of course
+likewise
+comparatively
+correspondingly
+similarly
+furthermore
+additionally
+ 
+ 
+OPPOSITION_WORDS:
+although this may be true
+in contrast
+different from
+of course
+but
+on the other hand
+on the contrary
+at the same time
+in spite of
+even so
+even though
+be that as it may
+then again
+above all
+in reality
+after all
+but
+still
+unlike
+or
+yet
+while
+albeit
+besides
+as much as
+even though
+although
+instead
+whereas
+despite
+conversely
+otherwise
+however
+rather
+nevertheless
+nonetheless
+regardless
+notwithstanding
+
+CAUSE_WORDS:
+in the event that
+granted that
+as long as
+so long as
+on condition that
+for the purpose of
+with this intention
+with this in mind
+in the hope that
+to the end that
+for fear that
+in order to
+seeing that
+being that
+in view of
+If
+then
+unless
+when
+whenever
+while
+because of
+as
+since
+while
+lest
+in case
+provided that
+given that
+only if
+even if
+so that
+so as to
+owing to
+inasmuch as
+due to
+
+LOCATION_WORDS:
+in the middle
+to the left
+to the right
+in front of
+on this side
+in the distance
+here and there
+in the foreground
+in the background
+in the center of
+adjacent to
+opposite to 
+here
+there
+next
+where
+from
+over
+near
+above
+below
+down
+up
+under
+further
+beyond
+nearby
+wherever
+around
+between
+before
+alongside
+amid
+among
+beneath
+beside
+behind
+across

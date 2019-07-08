@@ -1,0 +1,462 @@
+CONTRAST_WORDS:
+en cambio
+no obstante
+sin embargo
+por un lado
+por el otro
+por otra parte
+en comparación con
+por el contrario
+al contrario
+en cualquier caso
+de cualquier manera
+
+SIMILARITY_WORDS:
+asimismo
+de igual manera
+del mismo modo
+igualmente
+también
+
+RESULT_WORDS:
+por lo tanto
+por consiguiente
+pues 
+así pues
+luego
+por tal motivo
+por eso
+
+SEQUENCE_WORDS:
+también
+además
+es más
+más aún
+asimismo
+primeramente
+primero
+en primer lugar
+antes que nada
+segundo
+en segundo lugar
+tercero
+en tercer lugar
+por último
+finalmente
+en último lugar
+por fin
+
+IMPORTANCE_ORDER_WORDS:
+sobre todo
+principalmente
+ante todo
+primordialmente
+en primer lugar
+básicamente
+fundamentalmente
+especialmente
+
+PARTICULARIZATION_WORDS:
+en concreto
+concretamente
+en particular
+particularmente
+en especial
+especialmente
+de manera especial
+
+EXAMPLIFICATION_and_EMPAHSIS_WORDS:
+por ejemplo
+como ejemplo
+a título ilustrativo
+a modo de ejemplo
+en otras palabras
+es decir
+o sea 
+en otros términos
+o lo que es lo mismo
+dicho de otro modo
+en este caso
+a saber
+en especial
+inclusive
+tal/tales como
+en general
+desde luego
+por supuesto
+por descontado
+evidentemente
+sin duda
+seguramente
+ciertamente
+innegablemente
+no cabe duda
+verdaderamente
+con seguridad
+notablemente
+considerablemente
+notoriamente
+visiblemente
+marcadamente
+de hecho
+en concreto
+en efecto
+es importante recordar que
+se debe recordar que
+se debe aclarar que
+conviene recordar que
+conviene aclarar que
+conviene reiterar que
+no se debe olvidar que
+no debemos olvidar
+otro punto importante es
+es importante reiterar que
+en lo positivo
+en lo negativo
+expresamente
+categóricamente
+de manera explícita
+inequívocamente
+rotundamente
+de forma inequívoca
+exactamente
+inesperadamente
+frecuentemente
+con frecuencia
+significativamente
+de modo significativo
+particularmente
+
+EXPLANATION_WORDS:
+es decir
+en otras palabras
+o sea
+lo que es lo mismo
+en otros términos
+
+EMPHASIS_WORDS:
+de hecho
+en realidad 
+en efecto
+efectivamente
+para ser exactos
+
+LINKING_WORDS:
+con respecto a
+sobre 
+en relación a
+en cuanto a 
+a propósito de
+en lo que respecta a
+acerca de
+en lo que se refiere a
+en cuanto a lo que respecta a
+
+CONCLUSION_and_CONSEQUENCE_WORDS:
+en conclusión
+en resumen
+en breve
+brevemente
+en pocas palabras
+en suma
+en síntesis
+resumiendo
+para concluir
+en total 
+en conjunto
+como se puede observar
+como se puede ver
+en términos generales
+hablando en términos generales
+como se indica anteriormente
+a fin de cuentas
+en definitiva
+a la larga
+dado esto
+como se ha indicado
+en una palabra
+en general
+por lo general 
+en la mayor parte
+en su mayoría
+al fin y al cabo
+de hecho
+para resumir
+resumiendo
+en resumen
+en conclusión
+básicamente
+en resumidas cuentas
+por completo
+generalmente
+normalmente
+usualmente
+en cualquier caso
+en todo caso
+evidentemente
+lógicamente
+definitivamente
+como consecuencia
+en última instancia
+en definitiva
+definitivamente
+en consecuencia
+como resultado
+bajo esas circunstancias
+en ese caso
+por esa razón
+en efecto
+por eso
+así 
+de este modo
+por tanto 
+porque
+entonces
+por ende
+por consiguiente
+por tal motivo 
+por consiguiente
+de inmediato
+de forma inmediata
+en consonancia
+en consecuencia
+en adelante
+a partir de ahora
+a continuación
+en adelante
+
+CORRECTION_WORDS:
+más bien
+para ser más exactos
+
+TIME_WORDS
+en principio
+luego
+después 
+más tarde
+a continuación
+mientras tanto
+en la actualidad
+de vez en cuando
+tarde o temprano
+al mismo tiempo
+hasta el presente
+para comenzar
+a su debido tiempo
+tan pronto como
+mientras
+mientras tanto
+en un momento
+sin demora
+en primer lugar
+de repente
+en este instante
+primero
+segundo
+después
+más tarde
+luego 
+en último lugar
+hasta
+desde
+entonces
+antes
+cuando
+una vez
+sobre
+a continuación
+ahora
+de ahora en adelante
+cuando sea
+siempre que
+finalmente
+con el tiempo
+más allá
+durante
+a tiempo
+antes de
+de inmediato
+inmediatamente
+enseguida
+en seguida
+para cuando
+hasta ahora
+ahora que
+de inmediato
+rápidamente
+finalmente
+anteriormente
+repentinamente
+en breve
+
+DISMISSAL_WORDS:
+de todos modos
+de cualquier manera
+en cualquier caso
+de todas maneras
+como sea
+
+AGREEMENT_WORDS:
+en primer lugar
+no solo
+sino también
+de hecho
+igual
+de la misma manera
+además
+acompañado de
+del mismo modo
+igualmente
+en vista de
+por no mencionar
+por no hablar de
+igualmente importante
+por la misma razón
+de nuevo
+y 
+también
+entonces
+mismamente
+igualmente
+en igual de condiciones
+por igual
+singularmente
+únicamente
+como
+también
+además
+junto con
+desde luego
+a su vez
+de igual forma
+relativamente
+conformemente
+semejantemente
+de forma parecida
+es más
+adicionalmente
+
+OPPOSITION_WORDS:
+Aunque sea cierto
+por el contrario
+diferente a
+desde luego
+pero 
+sin embargo
+por otro lado
+a la vez
+a pesar de
+aún así
+aunque
+sea como sea
+por otro lado
+sobre todo
+en realidad
+a pesar de todo
+no obstante
+a diferencia de
+o 
+sin embargo
+mientras que
+si bien
+aparte de
+con la salvedad de
+tanto como
+por más que
+aunque
+en cambio
+considerando que
+pese a que
+a pesar de que
+a la inversa
+al contrario
+de lo contrario
+sino 
+en caso contrario
+no obstante
+más bien
+con todo y eso
+con todo
+de todas formas
+a pesar de
+
+CAUSE_WORDS:
+en caso de que
+siempre que
+siempre y cuando
+en la medida en que
+a efectos de
+con el fin de
+con el objetivo de
+con el propósito de
+con la intención de
+con la finalidad de
+por temor a
+para 
+para que
+en vista de que
+en consideración de
+dado que
+a la vista de
+si 
+entonces
+a no ser que
+cuando
+siempre que
+mientras que
+por 
+como 
+desde 
+mientras
+para que no
+en caso de
+a condición de que
+en consideración de que
+solo si
+incluso si
+para que
+a causa de
+ya que
+debido a que
+
+LOCATION_WORDS:
+en el medio
+a la izquierda
+a la derecha
+delante
+a este lado
+en la distancia
+aquí y allá
+en primer plano
+en segundo plano
+en el centro
+adyacente a
+opuesto a 
+enfrente a
+aquí 
+ahí 
+allá
+junto a
+donde
+desde
+sobre
+cerca
+por encima de
+debajo de
+por debajo de
+arriba
+debajo
+más allá
+más allá de
+en las proximidades de
+donde sea
+alrededor de
+antes
+junto a
+al lado de
+en medio de
+entre 
+debajo de
+al lado de
+detrás de
+a través de
